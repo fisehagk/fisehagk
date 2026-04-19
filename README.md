@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Fiseha Kebede
 
-<!--
-**fisehagk/fisehagk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with experience in software engineering, automation, full-stack development, Android development, and process optimization.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Movie Information Web Application
+Full-stack application built with Node.js, React, Express, REST APIs, and Firebase.
+
+### GMU Parking Sharing Mobile App
+Android application that helps George Mason University students share parking availability in real time using Google authentication and Google Maps.
+
+### Micron UiPath Automation Project
+Automation solution that eliminated a manual task and reduced 165 hours of labor per week.
+
+## Technical Skills
+- Java
+- Python
+- C
+- JavaScript
+- React
+- Node.js
+- Express
+- Firebase
+- Android Development
+- REST APIs
+- UiPath
+- Git
+
+## Links
+- LinkedIn: www.linkedin.com/in/fiseha-kebede-6598ab15a
