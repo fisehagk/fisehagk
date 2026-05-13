@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Fiseha Kebede
 
 Computer Science graduate and Micron Technology engineering professional with experience in automation, semiconductor manufacturing operations, and software development.
@@ -101,4 +100,3 @@ Over 10 years of experience supporting semiconductor manufacturing operations at
 
 - LinkedIn: https://www.linkedin.com/in/fiseha-kebede-6598ab15a
 - GitHub: https://github.com/fisehagk
-```
